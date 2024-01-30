@@ -1,0 +1,15 @@
+gunakan ternary operation
+
+1. ubah pukul 19.00 menjadi pukul 07.00 pm dan ubah pukul 23.45 menjadi 11.45 pm, pukul 08.55 menjadi pukul 08.55 am
+
+2. jika hari ini adalah hari senin maka hari ini upacara, jika hari ini bukan hari senin maka hari ini tidak upacara. (ambil tanggal hari ini secara otomatis)
+
+3. predikat terhadap hasil ujian diberikan ketika
+-mendapatkan predikat A jika nilai lebih dari 90
+-mendapatkan predikat B jika nilai lebih dari 75
+-mendapatkan predikat c jika nilai kurang dari 75
+
+4. presentase kehadiran setiap siswa dalam satu bulan adalah 100%.
+-sakit dan izin berkurang 3%
+-alfa berkurang 5%
+-hadir tidak berkurang
